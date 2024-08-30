@@ -34,7 +34,7 @@ This is a simple clone of the Netflix homepage built using only HTML and CSS. Th
 ## Screenshots
  
 ### Desktop View
-![Desktop View](![NC](https://github.com/user-attachments/assets/1106831f-b8fb-499b-a5b2-ce0a80321a90)
+![alt text](![NC](https://github.com/user-attachments/assets/05b48a03-0032-4662-a8db-4de1a7926077)
 )
 
 ## Contributing
