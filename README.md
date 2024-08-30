@@ -34,9 +34,7 @@ This is a simple clone of the Netflix homepage built using only HTML and CSS. Th
 ## Screenshots
  
 ### Desktop View
-![alt text](![NC](https://github.com/user-attachments/assets/05b48a03-0032-4662-a8db-4de1a7926077)
-)
-
+![alt text](file:///E:/Netflix%20Clone/images/NC.jpeg)
 ## Contributing
 
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
